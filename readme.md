@@ -73,7 +73,8 @@ All pipe starts as 10′ (120″) pieces. Cuts made at Lowe’s.
 ### Other Materials
 
 Would Probably look into using these next time
-<img width="1500" height="654" alt="image" src="https://github.com/user-attachments/assets/1ee05005-1687-4aae-bc29-198c13cac72d" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/1ee05005-1687-4aae-bc29-198c13cac72d" />
 
 https://www.amazon.com/dp/B08F2RTY2S?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4
 
@@ -92,6 +93,9 @@ Two-layer enclosure:
 Example blackout product:
 
 - Portable Blackout Shades, 157″ × 57″
+- 
+<img alt="image" src="https://github.com/user-attachments/assets/58955e8c-294b-4e04-ae86-7a0a4c0fc709" />
+
 
 Mounting with Velcro wrapped around the frame.
 
