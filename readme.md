@@ -152,6 +152,10 @@ Software handling:
 - Uneekor Launcher
 - Firewall/anti-malware whitelist as needed
 
+https://download.uneekor.com/docs/Uneekor_Launcher_Installation_Guide.pdf
+
+https://download.uneekor.com/docs/EYE_MINI_CORE_Manual.pdf
+
 ---
 
 ## Hitting Mat
