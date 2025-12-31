@@ -130,6 +130,8 @@ Screen attaches to the cable via ball bungees — NOT directly to the pipe.
 
 [Optoma GT2000HDR Compact Theater Projector (Amazon)](https://www.amazon.com/dp/B0C5BBCXRK)
 
+https://region-resource.optoma.com/products/import/Documents/02387d20-4b12-4d04-97e4-be316b803cf2.pdf
+
 Mounting:
 
 - Above and slightly in front of the hitting area
